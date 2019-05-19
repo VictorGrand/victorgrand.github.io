@@ -1,5 +1,4 @@
 # General Jekyll Config
 
 name: Victor Grand
-
-theme: minima
+markdown: kramdown
