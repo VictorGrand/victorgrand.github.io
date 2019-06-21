@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 
@@ -7,8 +7,6 @@ title: About
   Welcome!
 </p>
 
-## THIS IS MY WEBSITE
-
-RIGHT THERE
+This is my website!
 
 
