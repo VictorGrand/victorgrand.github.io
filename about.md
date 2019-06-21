@@ -1,12 +1,8 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Welcome!
-</p>
-
-This is my website!
-
+Hi! I'm a composer/songwriter in Denton, TX. 
 
